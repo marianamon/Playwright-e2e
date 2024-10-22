@@ -1,0 +1,25 @@
+{
+  "name": "playwright-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianamon/Playwright-e2e.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianamon/Playwright-e2e/issues"
+  },
+  "homepage": "https://github.com/marianamon/Playwright-e2e#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.8"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^11.0.1"
+  }
+}
