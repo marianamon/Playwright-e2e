@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test:ui": "npx playwright test --ui",
+    "test:cucumber": "npx cucumber-js"
+
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marianamon/Playwright-e2e.git"
